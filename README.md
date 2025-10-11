@@ -15,24 +15,13 @@ An introduction to Classification metrics and definition of the common ones.
 - Describe the ROC curve and the AUC score.
 
 
-
-## Content
-
-| Topic | About |
-| ------ | ------ |
-| [Full Lesson Deck](./01-slides/)| - Describe the principles of Logistic Regression-<br/>- Interpret the coefficients of a Logistic Regression model.-<br/>- State the assumptions of a Logistic Regression model. |
-| [02 Logistic Regression](./02-logistic-regression) | - Fit, evaluate, and generate predictions from a Logistic Regression model in `scikit-learn` |
-| [Practice](./practice/) | An optional additional exercise to help practice building logistic regression models|
-
-
 ## Content
 
 | Topic | Skills |
 | ------ | ------ |
 | [Slides](./01-slides/) | - Introduction to Classification Metrics compared to regression metrics. |
-| [02 Classification Metrics Titanic](./02-classification-metrics-titanic/) | - Evaluate logistic regression models using classification metrics in Titanic |
-| [02 Classification Metrics](./02-classification-metrics/) | - Additional exercises applying and evaluating classification metrics |
-| [Practice](./practice/) | An optional additional exercise |
+| [02 Classification Metrics](./02-classification-metrics/) | - Create a confusion matrix-<br/>- Calculate common classification metrics from the confusion matrix |
+| [03 ROC AUC](./03-roc-auc/) | - Demonstrate the ROC curve and the AUC score |
 
 
 ## Prerequisites
