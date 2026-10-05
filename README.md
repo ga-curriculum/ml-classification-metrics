@@ -19,9 +19,9 @@ An introduction to Classification metrics and definition of the common ones.
 
 | Topic | Skills |
 | ------ | ------ |
-| [Slides](./01-slides/) | - Introduction to Classification Metrics compared to regression metrics. |
-| [02 Classification Metrics](./02-classification-metrics/) | - Create a confusion matrix-<br/>- Calculate common classification metrics from the confusion matrix |
-| [03 ROC AUC](./03-roc-auc/) | - Demonstrate the ROC curve and the AUC score |
+| [Slides](https://github.com/ga-curriculum/ml-classification-metrics/blob/main/01-slides/ML-Classification-Metrics.pdf){:target="_blank"} | - Introduction to Classification Metrics compared to regression metrics. |
+| [02 Classification Metrics](https://github.com/ga-curriculum/ml-classification-metrics/tree/main/02-classification-metrics){:target="_blank"} | - Create a confusion matrix-<br/>- Calculate common classification metrics from the confusion matrix |
+| [03 ROC AUC](https://github.com/ga-curriculum/ml-classification-metrics/tree/main/03-roc-auc){:target="_blank"} | - Demonstrate the ROC curve and the AUC score |
 
 
 ## Prerequisites
